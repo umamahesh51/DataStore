@@ -1,0 +1,14 @@
+{
+"first-name" : "Umamaheswararao",
+"last-name" : "Tumma",
+"dob" : "09-08-1997",
+"email" : "umamaheswararaotumma@gmail.com",
+"address" : {
+              "city" : "kodad",
+              "mandal" : "suryapet",
+              "state" : "telangana",
+              "country-code" : "+91"
+            },
+ "open-to-opportunities" : "true"
+
+}
